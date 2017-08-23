@@ -2,7 +2,19 @@ baseURL = "https://saiki.github.io/"
 languageCode = "ja-jp"
 title = "saiki.github.io"
 theme = "beautifulhugo"
+googleAnalytics = "UA-105148292-1"
 
-[params]
-	twitter = "https://twitter.com/a_saiki"
-	googleAnalytics = "UA-105148292-1"
+[Author]
+	name = "saiki"
+	github = "saiki"
+	twitter = "a_saiki"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3

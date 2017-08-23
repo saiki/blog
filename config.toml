@@ -5,3 +5,4 @@ theme = "beautifulhugo"
 
 [params]
 	twitter = "https://twitter.com/a_saiki"
+	googleAnalytics = UA-105148292-1

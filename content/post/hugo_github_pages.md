@@ -3,7 +3,6 @@ title: "Hugoを使ってGihub Pagesにブログを作成する手順"
 date: 2017-08-23T09:37:05+09:00
 draft: false
 tags: [hugo,github pages]
-category: [hugo]
 ---
 
 ## 参考URL

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://saiki.github.io/post/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/post/iterm_npm_progress_bar_problem/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/item2/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/npm/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/yarn/</loc>
+    <lastmod>2017-09-04T22:42:57+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/post/hugo_github_pages/</loc>
+    <lastmod>2017-08-23T09:37:05+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/github-pages/</loc>
+    <lastmod>2017-08-23T09:37:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/tags/hugo/</loc>
+    <lastmod>2017-08-23T09:37:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://saiki.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

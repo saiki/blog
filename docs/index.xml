@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>saiki.github.io</title>
+    <link>https://saiki.github.io/</link>
+    <description>Recent content on saiki.github.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Mon, 04 Sep 2017 22:42:57 +0900</lastBuildDate>
+    
+	<atom:link href="https://saiki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iTerm2でnpm install,yarnコマンドで表示されるプログレスバーがおかしくなる問題の対処方法</title>
+      <link>https://saiki.github.io/post/iterm_npm_progress_bar_problem/</link>
+      <pubDate>Mon, 04 Sep 2017 22:42:57 +0900</pubDate>
+      
+      <guid>https://saiki.github.io/post/iterm_npm_progress_bar_problem/</guid>
+      <description> プログレスバー自体を表示しない  npm set progress=false yarn &amp;ndash;no-progress  iTerm2の設定を帰る  Preferences -&amp;gt; Profiles -&amp;gt; Textタブ  Treat ambiguous-width characters as double width (not recommended) のチェックをはずす   </description>
+    </item>
+    
+    <item>
+      <title>Hugoを使ってGihub Pagesにブログを作成する手順</title>
+      <link>https://saiki.github.io/post/hugo_github_pages/</link>
+      <pubDate>Wed, 23 Aug 2017 09:37:05 +0900</pubDate>
+      
+      <guid>https://saiki.github.io/post/hugo_github_pages/</guid>
+      <description>参考URL  基本的に下記のURLの通り  (https://gohugo.io/hosting-and-deployment/hosting-on-github/#host-github-user-or-organization-pages) (https://gohugo.io/getting-started/quick-start/)   リポジトリを作成  表示用とコンテンツ用の2つを作成  &amp;lt;username&amp;gt;.github.io リポジトリ コンテンツ用のディレクトリ  i.e. blog README.mdは生成しなかった    サイトを生成  &amp;lt;username&amp;gt;.github.ioという名前でサイトをせいせい
+hugo new site &amp;lt;username&amp;gt;.github.io   Gitリポジトリとして初期化 bash git init   コンテンツ用リポジトリをリモートに追加
+git remote add origin https://github.com/&amp;lt;username&amp;gt;/blog   &amp;lt;username&amp;gt;.github.io を public ディレクトリのsubmoduleとする bash git submodule add -b master git@github.com:&amp;lt;USERNAME&amp;gt;/&amp;lt;USERNAME&amp;gt;.github.io.git public   参考URLのdeploy.shを作成
+  テーマの登録  cloneしている記事が多いがQuick Startではsubmoduleとしているのでそのようにする bash git submodule add https://github.</description>
+    </item>
+    
+  </channel>
+</rss>
